@@ -1,0 +1,84 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "461709e9-20e5-48c7-b25b-a9d16873d409",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "461709e9-20e5-48c7-b25b-a9d16873d409",
+    "refId": "ef257953-c190-4f89-b90a-df9fc78d092a"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "ab53d8b6-ceee-4dcd-89a0-5c69349c1fe7",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/logo-restaurante-x-template.svg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "ab53d8b6-ceee-4dcd-89a0-5c69349c1fe7",
+    "refId": "ef257953-c190-4f89-b90a-df9fc78d092a"
+  },
+  {
+    "id": "a5540a1b-69f5-4a97-92a0-c676074fc2cf",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "ef257953-c190-4f89-b90a-df9fc78d092a",
+    "childId": "a5540a1b-69f5-4a97-92a0-c676074fc2cf"
+  },
+  {
+    "id": "ef257953-c190-4f89-b90a-df9fc78d092a",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Image1"
+    }
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "411a80a9-361f-4fad-87da-44da7d94b073",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "boxSizing": "border-box",
+          "fontVariant": "tabular-nums",
+          "fontFeatureSettings": "tnum",
+          "paddingTop": "11px",
+          "paddingLeft": "15px",
+          "paddingBottom": "11px",
+          "paddingRight": "15px",
+          "color": "#000000d9",
+          "fontSize": "14px",
+          "backgroundColor": "#fff",
+          "backgroundImage": "none",
+          "borderWidth": "1px",
+          "borderStyle": "solid",
+          "borderColor": "#d9d9d9",
+          "borderRadius": "20px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "b7564249-8b08-4798-9efa-1cb97b2c53d6",
+    "childId": "411a80a9-361f-4fad-87da-44da7d94b073"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "88e221d8-7b5d-4731-8e70-fd4aad295e3f",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "value": "",
+          "placeholder": "John Cartar"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "b7564249-8b08-4798-9efa-1cb97b2c53d6",
+    "childId": "88e221d8-7b5d-4731-8e70-fd4aad295e3f"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "b65007ff-44ab-41f9-8027-229d6659510c",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "fontFamily": ""
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "23da246f-ebff-4e96-8e86-42166f75acd7",
+    "childId": "b65007ff-44ab-41f9-8027-229d6659510c"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "c1fce6c1-3afa-40bc-9dfd-c4210d8d0f95",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Name"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "23da246f-ebff-4e96-8e86-42166f75acd7",
+    "childId": "c1fce6c1-3afa-40bc-9dfd-c4210d8d0f95"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "e77fbe46-eac0-4c48-9603-caefd2b3c535",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "rowGap": "20px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "590f53a4-8284-4322-a966-9787ab160a13",
+    "childId": "e77fbe46-eac0-4c48-9603-caefd2b3c535"
+  },
+  {
+    "id": "ea6517ed-1807-4259-b80f-0b4dd8289d6e",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "b7564249-8b08-4798-9efa-1cb97b2c53d6",
+    "childId": "ea6517ed-1807-4259-b80f-0b4dd8289d6e"
+  },
+  {
+    "id": "469b7b8f-5d54-4328-98d4-707b8ca4f923",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "23da246f-ebff-4e96-8e86-42166f75acd7",
+    "childId": "469b7b8f-5d54-4328-98d4-707b8ca4f923"
+  },
+  {
+    "id": "cb676a9c-c5b0-4f3b-887c-b267ac2de326",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "590f53a4-8284-4322-a966-9787ab160a13",
+    "childId": "cb676a9c-c5b0-4f3b-887c-b267ac2de326"
+  },
+  {
+    "id": "b7564249-8b08-4798-9efa-1cb97b2c53d6",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Input",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "590f53a4-8284-4322-a966-9787ab160a13",
+        "index": 2
+      },
+      "alias": "Field_Input"
+    }
+  },
+  {
+    "id": "23da246f-ebff-4e96-8e86-42166f75acd7",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "590f53a4-8284-4322-a966-9787ab160a13",
+        "index": 1
+      },
+      "alias": "Field_Title"
+    }
+  },
+  {
+    "id": "590f53a4-8284-4322-a966-9787ab160a13",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Flield"
+    }
+  }
+]
