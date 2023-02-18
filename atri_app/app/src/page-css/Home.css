@@ -837,18 +837,30 @@ row-gap: 10px;
 }
 .p-Home.TextBox2 {
 align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
 }
 .p-Home.TextBox3 {
 align-self: center;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
 }
 .p-Home.TextBox4 {
-;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
 }
 .p-Home.TextBox5 {
-;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
 }
 .p-Home.TextBox8 {
-;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
 }
 .p-Home.Button2 {
 color: #000000;
@@ -899,6 +911,7 @@ font-weight: 400;
 font-size: 18px;
 word-wrap: break-word;
 width: 70%;
+color: #757575;
 }
 .p-Home.TextBox9 {
 font-family: DM Sans;
